@@ -103,13 +103,13 @@ The bank loan analysis dataset comprises essential fields such as Loan ID, Addre
 You can find images of the dashboards in the `Dashboard` directory of this repository.
 
 #### Summary Dashboard
-![Summary Dashboard](/Output/Summary.png)
+![Summary Dashboard](https://github.com/SwapnaleeNikam/Bank_Loan_Analysis/blob/main/Dashboard/Summary%20Dashboard.png)
 
 #### Overview Dashboard
-![Overview Dashboard](/Output/Overview.png)
+![Overview Dashboard](https://github.com/SwapnaleeNikam/Bank_Loan_Analysis/blob/main/Dashboard/Overview%20Dashboard.png)
 
 #### Details Dashboard
-![Details Dashboard](/Output/Details.png)
+![Details Dashboard](https://github.com/SwapnaleeNikam/Bank_Loan_Analysis/blob/main/Dashboard/Details%20Dashboard.png)
 
 ## Conclusion:
 
